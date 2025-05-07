@@ -1,0 +1,12 @@
+.Cabeza {
+    border: 1px solid black;
+    background-color: white;
+    height: 5rem;
+    padding: 1rem;
+
+    font-size: large;
+
+    display: flex;
+    align-items: top;
+    justify-content: left;
+}
