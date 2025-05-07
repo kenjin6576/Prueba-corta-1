@@ -1,0 +1,9 @@
+#Prueba {
+    width: 40rem;
+    height: 55rem;
+    border: 1px solid black;
+    background-color: white;
+
+    margin:auto;
+    margin-top: 10rem;
+}
